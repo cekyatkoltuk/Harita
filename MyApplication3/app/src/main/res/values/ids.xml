@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_current_location" type="id" />
+    <item name="button_random_location" type="id" />
+    <item name="map" type="id" />
+</resources>

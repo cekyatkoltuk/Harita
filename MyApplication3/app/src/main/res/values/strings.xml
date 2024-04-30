@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="google_maps_key" translatable="false">AIzaSyBiSl7voKMlRFbqgmPVolM6aJz-Pj3N03U</string>
+    <string name="uanki_konum">Şuanki Konum</string>
+    <string name="rastgele_tarih">Rastgele Tarih</string>
+    <string name="Suanki_konum" />
+    <string name="rastgele_konum">Rastgele Konum</string>
+    <string name="suanki_konum">Suanki Konum</string>
+</resources>
